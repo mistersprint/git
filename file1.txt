@@ -1,3 +1,5 @@
 this is first file
 this is 2rd line added in file1
 MANUALLY ADDED 
+this is 3rd line added new
+
